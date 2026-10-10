@@ -1,4 +1,4 @@
-# Antigravity ERP
+# NexusCore ERP
 
 A role-aware enterprise resource planning system for inventory, sales, HR, and finance operations.
 

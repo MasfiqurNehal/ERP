@@ -75,7 +75,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
               A
             </span>
             <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
-              Antigravity ERP
+              NexusCore ERP
             </span>
           </Link>
         </div>
@@ -173,7 +173,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
           <div className="relative w-64 bg-slate-900 border-r border-slate-800 flex flex-col z-10 animate-in slide-in-from-left duration-200">
             <div className="h-16 flex items-center justify-between px-6 border-b border-slate-800">
               <span className="font-bold text-lg tracking-tight bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
-                Antigravity ERP
+                NexusCore ERP
               </span>
               <button
                 onClick={() => setMobileMenuOpen(false)}

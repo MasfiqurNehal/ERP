@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Modern ERP Suite",
-  description: "Next-generation Enterprise Resource Planning management console.",
+  title: "NexusCore ERP",
+  description: "Role-aware enterprise resource planning management console.",
 };
 
 export default function RootLayout({

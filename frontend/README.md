@@ -1,6 +1,6 @@
 # ERP Frontend
 
-This is the Next.js client for the Antigravity ERP system. It provides the login experience and role-aware dashboard modules for inventory, sales, HR, and finance.
+This is the Next.js client for the NexusCore ERP system. It provides the login experience and role-aware dashboard modules for inventory, sales, HR, and finance.
 
 For complete architecture, database setup, demo accounts, API routes, and team workflow, see the repository [README](../README.md).
 

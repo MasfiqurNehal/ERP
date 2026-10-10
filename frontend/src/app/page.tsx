@@ -48,7 +48,7 @@ export default function LoginPage() {
             <Shield className="w-6 h-6" />
           </div>
           <h1 className="text-2xl font-bold tracking-tight text-white flex items-center gap-2">
-            Antigravity <span className="bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">ERP</span>
+            NexusCore <span className="bg-gradient-to-r from-blue-400 to-indigo-400 bg-clip-text text-transparent">ERP</span>
           </h1>
           <p className="text-slate-400 text-sm mt-1 text-center">
             Next-gen Enterprise Resource Planning Console
